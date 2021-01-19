@@ -19,7 +19,7 @@ fileteks << "-Anas"<< endl;    //isi
 fileteks.close();
 cout << "                   |============================================|\n"; 
 cout << "                   |                                            |\n"; 
-cout << "                   |======+++++GARUDA SECURITY HACKER+++++======|\n";
+cout << "                   |======+++++JAMIL AHMAD AZIZ+++++======|\n";
 cout << "                   |           ________ANAZVR________           |\n"; 
 cout << "                   |                                            |\n"; 
 cout << "                   |============================================|\n"; 
